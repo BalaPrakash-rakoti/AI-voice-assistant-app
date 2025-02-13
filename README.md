@@ -3,7 +3,7 @@
 ![AI Chatbot UI](How-to-Make-AI-Personal-Assistant-App-Design-_-Figma-UI-Design-Tutorial-_-UI_UX-Design.jpeg)
 
 ## Overview
-The **Personal AI Chatbot UI/UX Design** project contains the user interface and experience design for an AI-powered chatbot application. This repository includes Figma design files that define the chatbot's user flow, layout, and interactions.
+The **Personal AI Voice Chatbot UI/UX Design** project contains the user interface and experience design for an AI-powered chatbot application. This repository includes Figma design files that define the chatbot's user flow, layout, and interactions.
 
 ## Features
 - Well-structured chatbot UI/UX design
