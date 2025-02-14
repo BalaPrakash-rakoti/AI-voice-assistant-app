@@ -4,6 +4,8 @@
 
 ## Overview
 The **Personal AI Voice Chatbot UI/UX Design** project contains the user interface and experience design for an AI-powered chatbot application. This repository includes Figma design files that define the chatbot's user flow, layout, and interactions.
+![thumbnail](https://github.com/user-attachments/assets/a2d81966-abb6-4f02-a4a8-f829db63dddb)
+
 
 ## Features
 - Well-structured chatbot UI/UX design
